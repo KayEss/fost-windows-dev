@@ -1,4 +1,4 @@
 @svn up
 @echo off
 
-call fost-windows\compile
+call fost-windows\compile %*
