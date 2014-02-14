@@ -13,3 +13,6 @@
 [submodule "fost-orm"]
 	path = fost-orm
 	url = git@github.com:KayEss/fost-orm.git
+[submodule "fost-windows"]
+	path = fost-windows
+	url = git@github.com:KayEss/fost-windows.git
